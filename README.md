@@ -1,7 +1,25 @@
+#🌌 Cosmic Quest: Chronicles of Exploration
 # Welcome to our project for NASA SPACE APPS HACKATHON 2024
 
 This is a flutter based application, which is a 2d gameplay and also an educational resource to learn about exoplanets, you can run the app without server file loading to access other parts of app. We have SQlite database as well in the app. This app can run without network and it needs net only for ml model implementation. We have currently implemented ml model in our app and not rag but we do have the rag model ready in working condition
 we would recommend you to download SQLITE just in case as the database is stored locally when you run it(not necessarily)
+
+💡 Key Features
+Interactive Exploration: Explore real exoplanets like Kepler-452b with scientific data.
+My Planet Feature: Input planetary attributes (mass, radius, etc.) and predict the type of planet using a Random Forest ML model.
+AI-Powered Quizzes: The RAG model (ready but not implemented yet) generates personalized quizzes based on explored planets.
+Offline Access: Use the app without a server or network, with SQLite for local storage.
+FastAPI Backend: Required only for the My Planet prediction feature.
+
+🛠 Tools and Technologies
+Frontend: Flutter (supports Android and iOS)
+Backend: FastAPI (for ML functionalities)
+Database: SQLite (local storage)
+ML Models:
+Random Forest: Predicts planet type based on attributes.
+RAG Model: Ready for generating dynamic quizzes.
+Data: NASA APIs and educational sources.
+
 
 If you need the server code as well:
 
