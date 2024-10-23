@@ -1,4 +1,4 @@
-#🌌 Cosmic Quest: Chronicles of Exploration
+# 🌌 Cosmic Quest: Chronicles of Exploration
 # Welcome to our project for NASA SPACE APPS HACKATHON 2024
 
 This is a flutter based application, which is a 2d gameplay and also an educational resource to learn about exoplanets, you can run the app without server file loading to access other parts of app. We have SQlite database as well in the app. This app can run without network and it needs net only for ml model implementation. We have currently implemented ml model in our app and not rag but we do have the rag model ready in working condition
