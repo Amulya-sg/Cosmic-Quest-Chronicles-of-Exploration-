@@ -1,0 +1,42 @@
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+
+# iOS related
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Pods.xcodeproj/
+ios/Runner/GeneratedPluginRegistrant.*
+
+# Android related
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# Android Studio related
+*.iml
+*.hprof
+.idea/
+.gradle/
+local.properties
+
+# Dart analysis and coverage
+*.coverage
+**/coverage/
+
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store 
+.vscode/

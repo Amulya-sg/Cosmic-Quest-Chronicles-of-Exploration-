@@ -1,0 +1,154 @@
+{
+    "planet": "Generic Space Quiz",
+    "quiz": [
+    {
+        "question": "Which planet is known as the 'Red Planet'?",
+        "options": ["Mars", "Jupiter", "Venus", "Saturn"],
+        "correct_answer": "Mars"
+    },
+    {
+        "question": "What is the name of the galaxy that contains our Solar System?",
+        "options": ["Andromeda Galaxy", "Whirlpool Galaxy", "Milky Way Galaxy", "Sombrero Galaxy"],
+        "correct_answer": "Milky Way Galaxy"
+    },
+    {
+        "question": "What force keeps planets in orbit around the Sun?",
+        "options": ["Magnetism", "Gravity", "Inertia", "Friction"],
+        "correct_answer": "Gravity"
+    },
+    {
+        "question": "How many moons does Earth have?",
+        "options": ["1", "2", "4", "5"],
+        "correct_answer": "1"
+    },
+    {
+        "question": "Which is the hottest planet in our solar system?",
+        "options": ["Mercury", "Venus", "Earth", "Mars"],
+        "correct_answer": "Venus"
+    },
+    {
+        "question": "What is the name of the first artificial satellite sent into space?",
+        "options": ["Apollo 11", "Sputnik 1", "Voyager 1", "Hubble"],
+        "correct_answer": "Sputnik 1"
+    },
+    {
+        "question": "What is the closest star to Earth?",
+        "options": ["Proxima Centauri", "Sirius", "Alpha Centauri", "The Sun"],
+        "correct_answer": "The Sun"
+    },
+    {
+        "question": "Which planet has the most moons?",
+        "options": ["Earth", "Jupiter", "Mars", "Saturn"],
+        "correct_answer": "Jupiter"
+    },
+    {
+        "question": "What is the term for a star that has exploded?",
+        "options": ["Nebula", "Black Hole", "Supernova", "Quasar"],
+        "correct_answer": "Supernova"
+    },
+    {
+        "question": "Which planet is known for its prominent ring system?",
+        "options": ["Jupiter", "Neptune", "Saturn", "Uranus"],
+        "correct_answer": "Saturn"
+    },{
+        "question": "What is the smallest planet in our solar system?",
+        "options": ["Mercury", "Mars", "Venus", "Pluto"],
+        "correct_answer": "Mercury"
+    },
+    {
+        "question": "What is the name of the largest moon of Saturn?",
+        "options": ["Europa", "Titan", "Io", "Ganymede"],
+        "correct_answer": "Titan"
+    },
+    {
+        "question": "How many planets are there in our solar system?",
+        "options": ["7", "8", "9", "10"],
+        "correct_answer": "8"
+    },
+    {
+        "question": "Which planet is known for having a Great Red Spot?",
+        "options": ["Mars", "Jupiter", "Saturn", "Neptune"],
+        "correct_answer": "Jupiter"
+    },
+    {
+        "question": "What is the most abundant gas in Earth's atmosphere?",
+        "options": ["Oxygen", "Carbon Dioxide", "Hydrogen", "Nitrogen"],
+        "correct_answer": "Nitrogen"
+    },
+    {
+        "question": "Which planet is furthest from the Sun?",
+        "options": ["Uranus", "Neptune", "Pluto", "Saturn"],
+        "correct_answer": "Neptune"
+    },
+    {
+        "question": "What shape is the Milky Way galaxy?",
+        "options": ["Elliptical", "Spiral", "Irregular", "Circular"],
+        "correct_answer": "Spiral"
+    },
+    {
+        "question": "Which spacecraft was the first to land humans on the Moon?",
+        "options": ["Vostok 1", "Voyager 1", "Apollo 11", "Gemini 12"],
+        "correct_answer": "Apollo 11"
+    },
+    {
+        "question": "What is the term for a rock that enters Earth's atmosphere and burns up?",
+        "options": ["Comet", "Asteroid", "Meteor", "Planetoid"],
+        "correct_answer": "Meteor"
+    },
+    {
+        "question": "Which planet is called Earth's twin due to its similar size and composition?",
+        "options": ["Mars", "Venus", "Neptune", "Mercury"],
+        "correct_answer": "Venus"
+    },
+    {
+        "question": "How long does light from the Sun take to reach Earth?",
+        "options": ["8 minutes", "1 hour", "24 seconds", "8 seconds"],
+        "correct_answer": "8 minutes"
+    },
+    {
+        "question": "What causes a solar eclipse?",
+        "options": ["The Moon passing behind Earth", "The Sun moving away", "The Moon passing between Earth and the Sun", "The Earth rotating faster"],
+        "correct_answer": "The Moon passing between Earth and the Sun"
+    },
+    {
+        "question": "Which planet spins on its side, unlike other planets?",
+        "options": ["Uranus", "Venus", "Mars", "Jupiter"],
+        "correct_answer": "Uranus"
+    },
+    {
+        "question": "What are Saturn's rings primarily made of?",
+        "options": ["Gas", "Ice and rock", "Dust", "Magnetic fields"],
+        "correct_answer": "Ice and rock"
+    },
+    {
+        "question": "Which planet has the fastest rotation, completing a day in about 10 hours?",
+        "options": ["Mars", "Earth", "Saturn", "Jupiter"],
+        "correct_answer": "Jupiter"
+    },
+    {
+        "question": "What is the brightest star in the night sky?",
+        "options": ["Betelgeuse", "Sirius", "Alpha Centauri", "Vega"],
+        "correct_answer": "Sirius"
+    },
+    {
+        "question": "Which planet has a year that lasts nearly 165 Earth years?",
+        "options": ["Neptune", "Saturn", "Uranus", "Pluto"],
+        "correct_answer": "Neptune"
+    },
+    {
+        "question": "What is the name of the first human to travel into space?",
+        "options": ["Neil Armstrong", "Yuri Gagarin", "Buzz Aldrin", "John Glenn"],
+        "correct_answer": "Yuri Gagarin"
+    },
+    {
+        "question": "What is a black hole?",
+        "options": ["A giant star", "A dense region of space with strong gravity", "A collapsing planet", "A distant galaxy"],
+        "correct_answer": "A dense region of space with strong gravity"
+    },
+    {
+        "question": "What phenomenon is responsible for the Northern Lights?",
+        "options": ["Volcanic activity", "Solar wind interacting with Earth's atmosphere", "Meteor showers", "The rotation of Earth"],
+        "correct_answer": "Solar wind interacting with Earth's atmosphere"
+    }
+    ]
+}

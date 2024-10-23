@@ -1,0 +1,1 @@
+pip install pandas numpy transformers sentence_transformers torch faiss pickle fastapi uvicorn transformers sentence-transformers faiss-cpu torch

@@ -1,0 +1,359 @@
+K2-18b
+Distance: 110 light-years (Leo constellation)
+Host Star: Red dwarf
+Atmosphere: Water vapor, hydrogen, helium, potentially nitrogen and methane
+Size: 8 times Earth's mass
+Surface Gravity: Much higher than Earth's
+Potential for Life: Located in the habitable zone, but high radiation levels may make it hostile for life as we know it​(
+Exoplanets - NASA Science
+).
+
+WASP-39 b
+Distance: 700 light-years
+Type: Hot Saturn (Gas giant like Saturn but orbits much closer to its star)
+Atmosphere: Contains sulfur dioxide, water, carbon dioxide, sodium, potassium, and other molecules
+Temperature: Extremely high due to close orbit to its star
+Chemistry: Photochemistry driven by starlight was observed, revealing active atmospheric reactions​(
+NASA Science
+).
+
+Kepler-452b
+Distance: 1,400 light-years
+Host Star: Similar to the Sun (G-type star)
+Size: 1.6 times Earth's diameter
+Potential for Life: In the habitable zone, might have conditions suitable for water, although its age (1.5 billion years older than Earth) could affect habitability.
+Notable Feature: Sometimes referred to as Earth’s “cousin” due to its size and location in its star’s habitable zone, increasing interest in its habitability​(
+Harvard Center for Astrophysics
+).
+
+Proxima Centauri b
+Distance: 4.2 light-years (closest known exoplanet)
+Host Star: Proxima Centauri (red dwarf)
+Size: 1.17 times Earth's mass
+Atmosphere: Unknown, but its proximity to the star may lead to extreme radiation exposure, which could strip any atmosphere.
+
+TRAPPIST-1e
+Distance: 39 light-years (Aquarius constellation)
+Host Star: Ultra-cool red dwarf
+Type: Rocky planet
+Potential for Life: In the habitable zone, with possibilities for liquid water on the surface.
+
+HD 209458 b (Osiris)
+Distance: 150 light-years
+Type: Hot Jupiter
+Atmosphere: Contains hydrogen, carbon monoxide, and water vapor. Atmospheric escape is being observed, where it loses mass due to its proximity to the host star.
+
+Gliese 581g
+Distance: 20 light-years (Libra constellation)
+Host Star: Red dwarf
+Type: Rocky, potentially habitable
+Potential for Life: Lies in the star’s habitable zone, but conditions are still under debate.
+Notable Feature: Initially regarded as one of the most Earth-like exoplanets in the habitable zone before controversy arose over its actual existence​(
+star-planete.net » star planet
+).
+
+
+51 Pegasi b
+Distance: 50 light-years (Pegasus constellation)
+Type: Hot Jupiter
+Atmosphere: Likely hydrogen and helium, with extreme temperatures due to close proximity to its star.
+Notable Feature: The first exoplanet ever discovered orbiting a Sun-like star, which earned its discoverers a Nobel Prize in Physics in 2019​(
+Harvard Center for Astrophysics
+).
+
+
+Kepler-186f
+Distance: 500 light-years
+Host Star: Red dwarf
+Size: 1.1 times Earth's diameter
+Potential for Life: In the habitable zone, a strong candidate for having liquid water.
+
+LHS 1140 b
+Distance: 41 light-years
+Type: Rocky super-Earth
+Atmosphere: Unknown, but its orbit allows for the possibility of liquid water.
+
+GJ 1132 b
+Distance from Earth: 39 light years
+Host Star: GJ 1132 (Red dwarf)
+Temperature: 450°F (232°C)
+Atmosphere: Likely has a thick atmosphere with hydrogen, methane, and possibly water vapor.
+Notable Feature: Despite its proximity to the host star, this planet may have a secondary atmosphere formed after it lost its original one​(
+Harvard Center for Astrophysics
+)​
+
+55 Cancri e
+Distance from Earth: 41 light years
+Host Star: 55 Cancri A
+Temperature: ~4,200°F (2,300°C)
+Atmosphere: Likely has carbon dioxide, nitrogen, and possibly noxious gases.
+Notable Feature: It's a super-Earth with a very tight orbit, completing one orbit around its star in less than 18 hours​(
+Harvard Center for Astrophysics
+).
+
+HD 189733 b
+Distance from Earth: 64 light years
+Host Star: HD 189733
+Temperature: ~1,200°C
+Atmosphere: Contains high amounts of silicate particles, leading to “glass rain”.
+Notable Feature: Winds blow up to 5,400 mph, making it one of the most extreme exoplanets​(
+Harvard Center for Astrophysics
+).
+
+Proxima Centauri b
+Distance from Earth: 4.24 light years
+Host Star: Proxima Centauri
+Temperature: May allow liquid water, depending on atmospheric conditions.
+Atmosphere: Could have a thin atmosphere; however, no definitive detection yet.
+Notable Feature: Located within the habitable zone of its host star​(
+star-planete.net » star planet
+).
+
+K2-18b
+Distance from Earth: 124 light years
+Host Star: K2-18 (Red dwarf)
+Temperature: Potentially supportive of life with temperatures between -100°C to 100°C.
+Atmosphere: Water vapor detected, along with possible hydrogen and methane.
+Notable Feature: It's a super-Earth with the potential to harbor liquid water​(
+Harvard Center for Astrophysics
+).
+
+WASP-121b
+Distance from Earth: 850 light years
+Host Star: WASP-121
+Temperature: ~2,500°C
+Atmosphere: Contains vaporized metals like iron and magnesium.
+Notable Feature: It's being tidally pulled apart by its star due to its extreme proximity​(
+Harvard Center for Astrophysics
+)​(
+star-planete.net » star planet
+).
+
+LHS 1140 b
+Distance from Earth: 41 light years
+Host Star: LHS 1140 (Red dwarf)
+Temperature: Estimated to be around 0°C to 60°C.
+Atmosphere: Believed to contain water vapor or an Earth-like atmosphere.
+Notable Feature: Considered one of the best candidates for finding signs of life​(
+Harvard Center for Astrophysics
+).
+
+Kepler-442b
+Distance from Earth: 1,206 light years
+Host Star: Kepler-442
+Temperature: Around -40°C, but still within the habitable zone.
+Atmosphere: Could support a temperate atmosphere if water exists.
+Notable Feature: High potential for habitability due to its location in the habitable zone​(
+star-planete.net » star planet
+).
+
+Kepler-186f
+Distance from Earth: 500 light years
+Host Star: Kepler-186
+Temperature: Unknown, but within the habitable zone.
+Atmosphere: Could potentially have a similar atmosphere to Earth.
+Notable Feature: It's one of the most Earth-like planets discovered​(
+star-planete.net » star planet
+).
+
+HD 106906 b
+Distance from Earth: 336 light years
+Host Star: HD 106906
+Temperature: ~1,500°C
+Atmosphere: Unknown, but believed to be massive and gaseous.
+Notable Feature: This planet's orbit is extremely far from its host star, challenging traditional models of planet formation​(
+star-planete.net » star planet
+).
+
+HD 209458 b (Osiris)
+Distance from Earth: 159 light years
+Host Star: HD 209458
+Temperature: ~1,000°C
+Atmosphere: Contains evaporating hydrogen, sodium, carbon, and oxygen.
+Notable Feature: One of the first planets where atmospheric escape was detected.
+
+HR 8799 c
+Distance from Earth: 129 light years
+Host Star: HR 8799
+Temperature: ~800°C
+Atmosphere: Likely has clouds of silicate dust and methane.
+Notable Feature: Part of a unique planetary system imaged directly, showing multiple planets.
+
+Kepler-10b
+Distance from Earth: 564 light years
+Host Star: Kepler-10
+Temperature: ~1,500°C
+Atmosphere: Extremely thin or non-existent due to intense heat.
+Notable Feature: One of the first rocky exoplanets discovered.
+
+TRAPPIST-1e
+Distance from Earth: 39 light years
+Host Star: TRAPPIST-1
+Temperature: ~0°C to 100°C (estimation, could allow liquid water).
+Atmosphere: Potentially Earth-like, but not confirmed.
+Notable Feature: It's one of seven planets in the TRAPPIST-1 system, some of which may 
+be habitable.
+
+Gliese 876 d
+Distance from Earth: 15 light years
+Host Star: Gliese 876
+Temperature: Estimated around -60°C
+Atmosphere: Likely has a gaseous atmosphere, but not confirmed.
+Notable Feature: One of the closest known planetary systems to Earth.
+
+Kepler-452b
+Distance from Earth: 1,400 light years
+Host Star: Kepler-452
+Temperature: Unknown but within the habitable zone.
+Atmosphere: Could have clouds, water vapor, and other elements similar to Earth.
+Notable Feature: This exoplanet is referred to as Earth’s “cousin” because of its size and location in a habitable zone.
+
+GJ 1214 b
+Distance from Earth: 48 light years
+Host Star: Gliese 1214
+Temperature: ~230°C
+Atmosphere: Possibly thick with water vapor or hydrogen.
+Notable Feature: Known as a "water world," potentially covered with a dense atmosphere of water vapor.
+
+HD 189733 c
+Distance from Earth: 63 light years
+Host Star: HD 189733
+Temperature: ~1,200°C
+Atmosphere: Contains methane, silicate clouds, and other gases.
+Notable Feature: Winds on this planet are among the fastest ever detected, reaching speeds of 5,400 mph.
+
+Kepler-438b
+Distance from Earth: 640 light years
+Host Star: Kepler-438
+Temperature: Unknown, within the habitable zone.
+Atmosphere: Possibly Earth-like, but yet to be confirmed.
+Notable Feature: Has one of the highest Earth similarity indexes.
+
+Wolf 1061c
+Distance from Earth: 13.8 light years
+Host Star: Wolf 1061
+Temperature: Estimated -45°C to 10°C.
+Atmosphere: Could have a thick atmosphere suitable for life.
+Notable Feature: Located in the habitable zone of its star and considered one of the closest potentially habitable exoplanets to Earth.
+
+Tau Boötis b
+Distance from Earth: 51 light years
+Host Star: Tau Boötis
+Temperature: ~1,600°C
+Atmosphere: Contains hydrogen and carbon monoxide.
+Notable Feature: One of the first exoplanets where the presence of an atmosphere was confirmed through direct detection of its light​(
+star-planete.net » star planet
+).
+
+GJ 3470 b
+Distance from Earth: 96 light years
+Host Star: GJ 3470
+Temperature: ~600°C
+Atmosphere: Hydrogen-rich atmosphere, possibly evaporating over time.
+Notable Feature: A "sub-Neptune" planet losing its atmosphere at an unusually rapid rate​(
+star-planete.net » star planet
+).
+
+HD 106906 b
+Distance from Earth: 336 light years
+Host Star: HD 106906
+Temperature: ~1,500°C
+Atmosphere: Likely gaseous and massive.
+Notable Feature: Has an extreme orbit 20 times farther from its star than Pluto is from our Sun, challenging models of planet formation​(
+star-planete.net » star planet
+).
+
+LHS 3844 b
+Distance from Earth: 49 light years
+Host Star: LHS 3844
+Temperature: Day side ~770°C
+Atmosphere: No significant atmosphere detected.
+Notable Feature: A rocky, airless exoplanet with extreme temperature differences between its day and night sides​(
+star-planete.net » star planet
+).
+
+Kepler-37b
+Distance from Earth: 210 light years
+Host Star: Kepler-37
+Temperature: ~800°C
+Atmosphere: Likely none, due to proximity to its star.
+Notable Feature: The smallest exoplanet discovered, slightly larger than our Moon​(
+star-planete.net » star planet
+).
+
+WASP-76b
+Distance from Earth: 640 light years
+Host Star: WASP-76
+Temperature: ~2,400°C
+Atmosphere: Vaporized metals, including iron.
+Notable Feature: Known for having iron rain due to its superheated atmosphere​(
+star-planete.net » star planet
+).
+
+CoRoT-7b
+Distance from Earth: 489 light years
+Host Star: CoRoT-7
+Temperature: ~2,000°C
+Atmosphere: Could be vaporized rock or magma, due to intense heat.
+Notable Feature: It's one of the hottest known rocky planets, likely covered in molten lava​(
+star-planete.net » star planet
+).
+
+OGLE-2016-BLG-1195Lb
+Distance from Earth: 13,000 light years
+Host Star: OGLE-2016-BLG-1195L
+Temperature: Unknown, but extremely cold due to its distance from the host star.
+Atmosphere: Unknown.
+Notable Feature: The most distant Earth-mass exoplanet discovered so far​(
+star-planete.net » star planet
+).
+
+HD 40307g
+Distance from Earth: 42 light years
+Host Star: HD 40307
+Temperature: Unknown, but within the habitable zone.
+Atmosphere: Could have an Earth-like atmosphere.
+Notable Feature: A super-Earth in the habitable zone, making it a potential candidate for life​(
+star-planete.net » star planet
+).
+
+TOI 700 d
+Distance from Earth: 101 light years
+Host Star: TOI 700
+Temperature: Estimated to allow liquid water.
+Atmosphere: Likely has a thick atmosphere with potential for habitability.
+Notable Feature: One of the best candidates for studying planets in the habitable zone​(
+star-planete.net » star planet
+).
+
+Kepler-22b
+Notable Feature: One of the first exoplanets found in a star's habitable zone, making it a prime candidate for the potential of liquid water and life​(
+Harvard Center for Astrophysics
+).
+
+Kepler-16b
+Notable Feature: Known as the "Tatooine" planet for its two suns, similar to the fictional planet from Star Wars, orbiting a binary star system​(
+Harvard Center for Astrophysics
+).
+
+TrES-2b
+Notable Feature: One of the darkest exoplanets discovered, reflecting less than 1% of light, giving it an almost pitch-black appearance​(
+Harvard Center for Astrophysics
+)​(
+star-planete.net » star planet
+).
+
+Kepler-62f
+Notable Feature: A super-Earth exoplanet in the habitable zone, with possible water presence, making it a strong candidate for life​(
+star-planete.net » star planet
+).
+
+GJ 1214 b
+Notable Feature: This "water world" is believed to be covered in a thick, steamy atmosphere, possibly composed of water vapor​(
+Harvard Center for Astrophysics
+).
+
+WASP-12b
+Notable Feature: One of the hottest known exoplanets, orbiting so close to its star that it is being "eaten" by the star's gravitational pull, leading to material loss​(
+star-planete.net » star planet
+).
