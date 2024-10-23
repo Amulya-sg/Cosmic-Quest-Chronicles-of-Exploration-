@@ -20,6 +20,10 @@ Random Forest: Predicts planet type based on attributes.
 RAG Model: Ready for generating dynamic quizzes.
 Data: NASA APIs and educational sources.
 
+<a href="https://www.youtube.com/watch?v=6Aak5CJKcW8" target="_blank">
+    <img src="https://img.youtube.com/vi/6Aak5CJKcW8/0.jpg" alt="Watch the video" style="width: 100%; max-width: 600px;">
+</a>
+
 
 If you need the server code as well:
 
