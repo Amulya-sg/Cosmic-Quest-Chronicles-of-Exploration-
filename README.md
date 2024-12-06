@@ -33,7 +33,7 @@ You need to run the fastend API inorder to access predict_planet model
 You can access all other pages without running server, you just need server for MYPLANET i.e predictive model of planet
 
 Steps to clone the app:
-1. git clone https://github.com/Harika-Raju/cosmic_quest.git
+1. git clone [https://github.com/Amulya-sg/Cosmic-Quest-Chronicles-of-Exploration-.git](https://github.com/Amulya-sg/Cosmic-Quest-Chronicles-of-Exploration-.git)
 
 Steps to run server:
 remove the backend folder from flutter project and store it locally on your device. Let the backend folder and flutter project be separate
